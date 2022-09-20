@@ -1,0 +1,139 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="expertveterinario.com" resolutions="1x" timestamp="1575123627468">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="104955884" ref="especialidades:servicios:la-familia:contactanos:index"/>
+    <file name="especialidades.css" crc="3891841472" ref="especialidades"/>
+    <file name="servicios.css" crc="4122234946" ref="servicios"/>
+    <file name="la-familia.css" crc="4226541757" ref="la-familia"/>
+    <file name="contactanos.css" crc="57158294" ref="contactanos"/>
+    <file name="index.css" crc="21914546" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="webpro.js" crc="242022427" ref="index:especialidades:contactanos"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:especialidades"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:especialidades"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:especialidades"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="require.js" crc="4157109226" ref="index:servicios:la-familia:especialidades:contactanos"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="especialidades"/>
+    <file name="form_check.php" crc="62300408" ref="contactanos"/>
+    <file name="form_process.php" crc="91775217" ref="contactanos"/>
+    <file name="form-u1865.php" crc="3848839569" ref="contactanos"/>
+  </folder>
+  <folder name="images">
+    <file name="twetter.jpg" crc="15986856" seo="true" ref="index:servicios:la-familia:especialidades:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="la-familia" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="fb.jpg" crc="516260550" seo="true" ref="index:servicios:la-familia:especialidades:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="la-familia" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="instagram.jpg" crc="3940364674" seo="true" ref="index:servicios:la-familia:especialidades:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="la-familia" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4007490735" seo="true" ref="index:servicios:la-familia:especialidades:contactanos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="la-familia" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="vete.jpg" crc="4159965031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="veterinario3.jpg" crc="4225518570" seo="true" ref="index:servicios:especialidades">
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="veterinario1.jpg" crc="4029211138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veterinario2.jpg" crc="305905937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veterinario4.jpg" crc="3821930873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veterinario5.jpg" crc="452293094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veterinario6.jpg" crc="4250053314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veterinario7349x228.jpg" crc="115871146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="veterinario8353x289.jpg" crc="136608391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="espec1.jpg" crc="4126694113" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="espec2.jpg" crc="4056182792" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="espect5.jpg" crc="4208455506" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="espect4.jpg" crc="3900442334" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="espec3.jpg" crc="3899045401" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="doct1.jpg" crc="282236143" seo="true" ref="la-familia">
+      <caption webpage="la-familia" alt=""/>
+    </file>
+    <file name="doct2.jpg" crc="4185404794" seo="true" ref="la-familia">
+      <caption webpage="la-familia" alt=""/>
+    </file>
+    <file name="veterinario7195x127.jpg" crc="525030304" seo="true" ref="especialidades">
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="veterinario8209x171.jpg" crc="378282380" seo="true" ref="especialidades">
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="veterinario5287x209.jpg" crc="4232203458" seo="true" ref="especialidades">
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="veterinario1215x170.jpg" crc="230524001" seo="true" ref="especialidades">
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="a1-crop-u2629.jpg" crc="3835977119" seo="true" ref="especialidades">
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="a2.jpg" crc="471556061" seo="true" ref="especialidades">
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="a3.jpg" crc="3859944362" seo="true" ref="especialidades">
+      <caption webpage="especialidades" alt=""/>
+    </file>
+    <file name="u1992-4.png" crc="350180471" ref="contactanos"/>
+  </folder>
+  <file name="index.html" crc="4259053592" seo="true" mt="1575123357126" redirect="true"/>
+  <file name="servicios.html" crc="512972575" seo="true" mt="1575123357126" redirect="true"/>
+  <file name="la-familia.html" crc="3930707304" seo="true" mt="1575123357126" redirect="true"/>
+  <file name="especialidades.html" crc="157346548" seo="true" mt="1575123357126" redirect="true"/>
+  <file name="contactanos.html" crc="431060977" seo="true" mt="1575123525262" redirect="true"/>
+</manifest>
